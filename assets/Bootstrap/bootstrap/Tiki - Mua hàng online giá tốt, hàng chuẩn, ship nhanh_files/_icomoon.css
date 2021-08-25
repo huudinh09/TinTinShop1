@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'icomoon';
+  font-display: fallback;
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/icomoon.ttf?e1dgso') format('truetype'),
+    url('../fonts/icomoon.woff?e1dgso') format('woff'),
+    url('../fonts/icomoon.svg?e1dgso#icomoon') format('svg');
+}
+
+.icomoon {
+  display: inline-block;
+  font-family: 'icomoon';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-fire:before {
+  content: '\e906';
+}
+
+.icomoon-star:before {
+  content: '\e924';
+}
+
+.icomoon-heart-o:before {
+  content: '\e933';
+}
+
+.icomoon-heart:before {
+  content: '\e927';
+}
+
+.icomoon-close:before {
+  content: '\e90b';
+}

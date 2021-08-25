@@ -1,0 +1,1469 @@
+.tikicon {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.tikicon.icon-2h {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -99px -255px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-acc-2h {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -215px -255px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-acc-bookcare {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -365px;
+  width: 15px;
+  height: 18px;
+}
+.tikicon.icon-acc-bougth-review {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -273px -255px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-acc-cart {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -206px;
+  width: 20px;
+  height: 20px;
+}
+.tikicon.icon-acc-credit {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -94px -126px;
+  width: 20px;
+  height: 16px;
+}
+.tikicon.icon-acc-favorite {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -157px;
+  width: 20px;
+  height: 18px;
+}
+.tikicon.icon-acc-location {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -252px -156px;
+  width: 14px;
+  height: 20px;
+}
+.tikicon.icon-acc-money {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -180px;
+  width: 18px;
+  height: 19px;
+}
+.tikicon.icon-acc-notice {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -340px;
+  width: 16px;
+  height: 20px;
+}
+.tikicon.icon-acc-order {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -104px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-acc-qna {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -265px -317px;
+  width: 17px;
+  height: 17px;
+}
+.tikicon.icon-acc-recently-view {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px -232px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-acc-tikifirst {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -90px -200px;
+  width: 16px;
+  height: 16px;
+}
+.tikicon.icon-acc-user {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -69px -200px;
+  width: 16px;
+  height: 16px;
+}
+.tikicon.icon-add-rating {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -306px;
+  width: 20px;
+  height: 19px;
+}
+.tikicon.icon-add-to-cart2x {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px 0px;
+  width: 25px;
+  height: 20px;
+}
+.tikicon.icon-bestseller {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -231px;
+  width: 20px;
+  height: 20px;
+}
+.tikicon.icon-cgv {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -317px;
+  width: 30px;
+  height: 18px;
+}
+.tikicon.icon-check-off {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -186px -255px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-check-on {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -244px -255px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-circle-close {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px -29px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-arrow-back {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -189px;
+  width: 8px;
+  height: 14px;
+}
+.tikicon.icon-arrow-down {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -208px;
+  width: 12px;
+  height: 6px;
+}
+.tikicon.icon-booking_dot_com {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -40px -365px;
+  width: 13px;
+  height: 18px;
+}
+.tikicon.icon-burger-menu {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -119px -126px;
+  width: 20px;
+  height: 16px;
+}
+.tikicon.icon-cart {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -252px;
+  width: 19px;
+  height: 18px;
+}
+.tikicon.icon-circle-tick {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -113px -180px;
+  width: 15px;
+  height: 15px;
+}
+.tikicon.icon-clearance-sale {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -173px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-delivery {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -145px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-e-voucher {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -98px;
+  width: 10px;
+  height: 16px;
+}
+.tikicon.icon-ebook-42 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -94px -100px;
+  width: 42px;
+  height: 21px;
+}
+.tikicon.icon-ebook {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -65px;
+  width: 60px;
+  height: 30px;
+}
+.tikicon.icon-exclusive {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -33px -221px;
+  width: 28px;
+  height: 29px;
+}
+.tikicon.icon-facebook-white {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -290px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-fast-delivery-short {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px 0px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-fast-delivery {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -129px -147px;
+  width: 69px;
+  height: 20px;
+}
+.tikicon.icon-gift-card {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -150px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-gift {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -116px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-gift_16 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -111px -200px;
+  width: 16px;
+  height: 16px;
+}
+.tikicon.icon-gift_20 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -256px;
+  width: 20px;
+  height: 20px;
+}
+.tikicon.icon-gift_green {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -87px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-global-16 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -132px -200px;
+  width: 16px;
+  height: 16px;
+}
+.tikicon.icon-global-18 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px -261px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-global-19 {
+  width: 19px;
+  height: 19px;
+  background-image: url(../img/icon-global-19.png);
+  background-size: 19px 19px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+.tikicon.icon-global-24 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -58px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-google-white {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -29px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-gotadi-2 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -58px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-gotadi {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -35px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-hoan-tien-2 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -281px;
+  width: 20px;
+  height: 20px;
+}
+.tikicon.icon-info-grey {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -148px -128px;
+  width: 14px;
+  height: 14px;
+}
+.tikicon.icon-info {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -133px;
+  width: 19px;
+  height: 19px;
+}
+.tikicon.icon-interval-18 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -127px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-interval-19 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -203px -48px;
+  width: 59px;
+  height: 19px;
+}
+.tikicon.icon-interval-20 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -203px -156px;
+  width: 44px;
+  height: 20px;
+}
+.tikicon.icon-interval-23 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -65px -65px;
+  width: 70px;
+  height: 23px;
+}
+.tikicon.icon-interval {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -203px -24px;
+  width: 59px;
+  height: 19px;
+}
+.tikicon.icon-location-16 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -170px;
+  width: 10px;
+  height: 14px;
+}
+.tikicon.icon-location-picker {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -174px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-location-shadow {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-logo-blue {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px 0px;
+  width: 90px;
+  height: 60px;
+}
+.tikicon.icon-notification {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px -174px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-plane-16 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -153px -200px;
+  width: 16px;
+  height: 16px;
+}
+.tikicon.icon-plane-18 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -81px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-plane {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px -145px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-radio-button-off {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px -116px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-radio-button-on {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px -87px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-return {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -271px -198px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-search-2 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -133px -180px;
+  width: 14px;
+  height: 15px;
+}
+.tikicon.icon-search {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -152px -180px;
+  width: 14px;
+  height: 15px;
+}
+.tikicon.icon-standard-delivery {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -106px;
+  width: 24px;
+  height: 20px;
+}
+.tikicon.icon-star_grey {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -136px;
+  width: 12px;
+  height: 12px;
+}
+.tikicon.icon-star_yellow {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -119px;
+  width: 12px;
+  height: 12px;
+}
+.tikicon.icon-store-camket {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -47px -100px;
+  width: 42px;
+  height: 42px;
+}
+.tikicon.icon-store-cart {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px 0px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-store-chung-nhan {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -148px -83px;
+  width: 40px;
+  height: 40px;
+}
+.tikicon.icon-store-hoan-tien {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -100px;
+  width: 42px;
+  height: 42px;
+}
+.tikicon.icon-store-home {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -157px -255px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-store-order {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -203px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-store-user {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px -203px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-store-verifed {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -304px -58px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-store-verifed_48 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -148px -38px;
+  width: 40px;
+  height: 40px;
+}
+.tikicon.icon-tikinow-18 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -203px -109px;
+  width: 56px;
+  height: 17px;
+}
+.tikicon.icon-tikinow-19 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -203px 0px;
+  width: 63px;
+  height: 19px;
+}
+.tikicon.icon-tikinow-20 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -203px -131px;
+  width: 47px;
+  height: 20px;
+}
+.tikicon.icon-tikinow-24 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -63px -147px;
+  width: 61px;
+  height: 24px;
+}
+.tikicon.icon-tikinow {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -147px;
+  width: 58px;
+  height: 28px;
+}
+.tikicon.icon-tra-gop-64 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -200px;
+  width: 64px;
+  height: 16px;
+}
+.tikicon.icon-tracking {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -52px;
+  width: 22px;
+  height: 22px;
+}
+.tikicon.icon-user {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -25px;
+  width: 22px;
+  height: 22px;
+}
+.tikicon.icon-uu-dai-hop-tac {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -219px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-white-cellphone {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -75px;
+  width: 11px;
+  height: 18px;
+}
+.tikicon.icon-zalo {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -240px -72px;
+  width: 25px;
+  height: 25px;
+}
+.tikicon.icon-cup-prize {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -29px;
+  width: 23px;
+  height: 24px;
+}
+.tikicon.icon-email {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -131px;
+  width: 20px;
+  height: 20px;
+}
+.tikicon.icon-facebook-small {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -196px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-footer-zalo {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -203px -72px;
+  width: 32px;
+  height: 32px;
+}
+.tikicon.icon-google-small {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -58px;
+  width: 23px;
+  height: 22px;
+}
+.tikicon.icon-header_2h {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -255px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-book {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -221px;
+  width: 28px;
+  height: 29px;
+}
+.tikicon.icon-home-floor-bottle {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -271px -165px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-camera {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -33px -255px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-cellphone {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -66px -255px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-electronic {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -66px -221px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-headphone {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -99px -221px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-lamp {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -132px -221px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-laptop {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -165px -221px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-lipsticks {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -198px -221px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-pan {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -231px -221px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-sport {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -271px 0px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-sprayer {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -271px -33px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-toy {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -271px -66px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-tshirt {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -271px -99px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-home-floor-tv {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -271px -132px;
+  width: 28px;
+  height: 28px;
+}
+.tikicon.icon-hot-deal-icon {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -95px 0px;
+  width: 48px;
+  height: 48px;
+}
+.tikicon.icon-hot {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -174px -200px;
+  width: 16px;
+  height: 16px;
+}
+.tikicon.icon-hot_12 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -153px;
+  width: 12px;
+  height: 12px;
+}
+.tikicon.icon-hot_14 {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -252px -181px;
+  width: 14px;
+  height: 14px;
+}
+.tikicon.icon-main-menu-bike {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -261px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-main-menu-book {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -21px -340px;
+  width: 16px;
+  height: 18px;
+}
+.tikicon.icon-main-menu-bottle {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -26px;
+  width: 10px;
+  height: 21px;
+}
+.tikicon.icon-main-menu-camera {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -90px -180px;
+  width: 18px;
+  height: 15px;
+}
+.tikicon.icon-main-menu-cellphone {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px -52px;
+  width: 11px;
+  height: 18px;
+}
+.tikicon.icon-main-menu-electronic {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -20px -365px;
+  width: 15px;
+  height: 18px;
+}
+.tikicon.icon-main-menu-global {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -242px -317px;
+  width: 18px;
+  height: 18px;
+}
+.tikicon.icon-main-menu-headphone {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -331px -317px;
+  width: 16px;
+  height: 17px;
+}
+.tikicon.icon-main-menu-hot {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -79px;
+  width: 22px;
+  height: 22px;
+}
+.tikicon.icon-main-menu-lamp {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -42px -340px;
+  width: 16px;
+  height: 17px;
+}
+.tikicon.icon-main-menu-laptop {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -203px -181px;
+  width: 21px;
+  height: 14px;
+}
+.tikicon.icon-main-menu-lipsticks {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -85px;
+  width: 19px;
+  height: 20px;
+}
+.tikicon.icon-main-menu-pan {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -275px;
+  width: 24px;
+  height: 14px;
+}
+.tikicon.icon-main-menu-sport {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -287px -317px;
+  width: 17px;
+  height: 17px;
+}
+.tikicon.icon-main-menu-sprayer {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -392px 0px;
+  width: 12px;
+  height: 21px;
+}
+.tikicon.icon-main-menu-toy {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -294px;
+  width: 20px;
+  height: 17px;
+}
+.tikicon.icon-main-menu-tshirt {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -110px;
+  width: 21px;
+  height: 18px;
+}
+.tikicon.icon-main-menu-tv {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -229px -181px;
+  width: 18px;
+  height: 14px;
+}
+.tikicon.icon-main-menu-vas {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -204px;
+  width: 18px;
+  height: 19px;
+}
+.tikicon.icon-main-menu-voucher {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -128px -255px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-money_bag {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -333px -228px;
+  width: 18px;
+  height: 19px;
+}
+.tikicon.icon-new {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -271px -231px;
+  width: 28px;
+  height: 16px;
+}
+.tikicon.icon-phone {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -156px;
+  width: 20px;
+  height: 20px;
+}
+.tikicon.icon-store {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -232px -288px;
+  width: 24px;
+  height: 24px;
+}
+.tikicon.icon-tiki_short {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -148px 0px;
+  width: 50px;
+  height: 33px;
+}
+.tikicon.icon-tra-gop {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: 0px -180px;
+  width: 85px;
+  height: 15px;
+}
+.tikicon.icon-warranty {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -362px -181px;
+  width: 20px;
+  height: 20px;
+}
+.tikicon.icon-zalo-small {
+  background-image: url(../img/sprite.png?v=100000000);
+  background-position: -309px -317px;
+  width: 17px;
+  height: 17px;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 192dpi) {
+  .tikicon.icon-2h {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-2h {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-bookcare {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-bougth-review {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-cart {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-credit {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-favorite {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-location {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-money {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-notice {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-order {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-qna {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-recently-view {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-tikifirst {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-acc-user {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-add-rating {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-add-to-cart2x {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-bestseller {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-cgv {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-check-off {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-check-on {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-circle-close {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-arrow-back {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-arrow-down {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-booking_dot_com {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-burger-menu {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-cart {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-circle-tick {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-clearance-sale {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-delivery {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-e-voucher {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-ebook-42 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-ebook {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-exclusive {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-facebook-white {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-fast-delivery-short {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-fast-delivery {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-gift-card {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-gift {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-gift_16 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-gift_20 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-gift_green {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-global-16 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-global-18 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-global-19 {
+    background-image: url(../img/icon-global-19@2x.png);
+  }
+  .tikicon.icon-global-24 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-google-white {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-gotadi-2 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-gotadi {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-hoan-tien-2 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-info-grey {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-info {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-interval-18 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-interval-19 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-interval-20 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-interval-23 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-interval {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-location-16 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-location-picker {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-location-shadow {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-logo-blue {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-notification {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-plane-16 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-plane-18 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-plane {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-radio-button-off {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-radio-button-on {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-return {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-search-2 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-search {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-standard-delivery {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-star_grey {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-star_yellow {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store-camket {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store-cart {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store-chung-nhan {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store-hoan-tien {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store-home {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store-order {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store-user {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store-verifed {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store-verifed_48 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-tikinow-18 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-tikinow-19 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-tikinow-20 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-tikinow-24 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-tikinow {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-tra-gop-64 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-tracking {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-user {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-uu-dai-hop-tac {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-white-cellphone {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-zalo {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-cup-prize {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-email {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-facebook-small {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-footer-zalo {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-google-small {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-header_2h {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-book {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-bottle {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-camera {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-cellphone {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-electronic {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-headphone {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-lamp {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-laptop {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-lipsticks {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-pan {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-sport {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-sprayer {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-toy {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-tshirt {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-home-floor-tv {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-hot-deal-icon {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-hot {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-hot_12 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-hot_14 {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-bike {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-book {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-bottle {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-camera {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-cellphone {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-electronic {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-global {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-headphone {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-hot {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-lamp {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-laptop {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-lipsticks {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-pan {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-sport {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-sprayer {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-toy {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-tshirt {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-tv {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-vas {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-main-menu-voucher {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-money_bag {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-new {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-phone {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-store {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-tiki_short {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-tra-gop {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-warranty {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+  .tikicon.icon-zalo-small {
+    background-image: url(../img/sprite@2x.png?v=100000000);
+    background-size: 404px 383px;
+  }
+}

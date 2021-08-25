@@ -1,0 +1,37 @@
+/*mobile < 740px*/
+@media (max-width: 739px){
+	.hide-on-mobile{
+		display: none;
+	}
+	.menu{
+		width: 35%;  /*menu-width*/
+	}
+	.nva-dropdown{
+		right: 40px;
+	}
+
+}
+/*tablet >= 740px*/
+@media (min-width: 740px){
+
+}
+/* PC medium resolution > 1113px */
+@media (min-width: 1113px){
+	.hide-on-mpc{
+		display: none;
+	}
+	
+}
+/* Tablet - PC low resolution >= 740 < 1024px */
+@media (min-width: 740px) and (max-width: 1023px){		
+	.hide-on-tablet{
+			display: none;
+		}	
+}
+/* > PC low resolution  >=1024px < 1240px*/
+@media (min-width: 1024px) and (max-width: 1239px){
+	.hide-on-pc{
+		display: none;
+	}
+	
+}
