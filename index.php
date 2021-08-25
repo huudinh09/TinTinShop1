@@ -4,19 +4,19 @@
 	<title>Trang chủ | TinTin.vn</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="shortcut icon" type="image/png" href="../assets/Picture/fav_icon.ico">
+	<link rel="shortcut icon" type="image/png" href="./assets/Picture/fav_icon.ico">
 	<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-	<link rel="stylesheet" type="text/css" href="../assets/CodeCSS/base.css">
-	<link rel="stylesheet" type="text/css" href="../assets/CodeCSS/grid.css">
+	<link rel="stylesheet" type="text/css" href="./assets/CodeCSS/base.css">
+	<link rel="stylesheet" type="text/css" href="./assets/CodeCSS/grid.css">
 
-	<link rel="stylesheet" href="../assets/CodeCSS/index.css">
-	<link rel="stylesheet" type="text/css" href="../assets/CodeCSS/responsive.css">
+	<link rel="stylesheet" href="./assets/CodeCSS/index.css">
+	<link rel="stylesheet" type="text/css" href="./assets/CodeCSS/responsive.css">
 </head> 
 <body >
 			<div class="menu-background js-menubg">
 				<div class="menu js-menu" id="menu">
 					<div class="menu-header">
-						<a href="index.php"><img class="menu-logo" src="../assets/Picture/logo.png" width="100" height="100"></a>
+						<a href="index.php"><img class="menu-logo" src="./assets/Picture/logo.png" width="100" height="100"></a>
 						<i class="close-btn js-closebtn fas fa-bars"></i>
 					</div>
 					<div class="menu-links">
@@ -37,7 +37,7 @@
 			</div>
 	<div style="background-color: var(--my-color)"> 
 		<div class="grid wide">
-		<?php include("nvabar1.php") ?>
+		<?php include("./CodePHP/nvabar1.php") ?>
 		</div>
 	</div>
 	<div class="grid wide">
@@ -439,10 +439,10 @@
                     <div class="row">
                         <div class="col c-12 footer-img-policy-wrap">
                             <a href="" class="footer-img-policy">
-                                <img src="../assets/Picture/policy/bo_cong_thuong.png" alt="">
+                                <img src="./assets/Picture/policy/bo_cong_thuong.png" alt="">
                             </a>
                             <a href="" class="footer-img-policy">
-                                <img src="../assets/Picture/policy/bo_cong_thuong.png" alt="">
+                                <img src="./assets/Picture/policy/bo_cong_thuong.png" alt="">
                             </a>
                         </div>
                     </div>

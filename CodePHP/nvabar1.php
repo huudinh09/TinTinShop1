@@ -1,6 +1,6 @@
 
 	<div class="navabar">	
-		<a href="index.php"><img src="../assets/Picture/logo.png" width="100" height="100"></a>
+		<a href="index.php"><img src="./assets/Picture/logo.png" width="100" height="100"></a>
 		<div class="menu-btn js-menubtn hide-on-mpc"><i class="fas fa-bars icon-menu"></i></div>
 		<div  class="col l-10 l-o-0 m-10 m-o-1 c-10 c-o-1">
 			<div class="row nva-grid">

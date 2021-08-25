@@ -4,18 +4,18 @@
 	<title>Sản phẩm | TinTin.vn</title>
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="shortcut icon" type="image/png" href="../assets/Picture/fav_icon.ico">
+	<link rel="shortcut icon" type="image/png" href="./assets/Picture/fav_icon.ico">
 	<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <!-- Owl Carousel -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" />
 	
-    <link rel="stylesheet" type="text/css" href="../assets/CodeCSS/base.css">
-	<link rel="stylesheet" type="text/css" href="../assets/CodeCSS/grid.css">
+    <link rel="stylesheet" type="text/css" href="./assets/CodeCSS/base.css">
+	<link rel="stylesheet" type="text/css" href="./assets/CodeCSS/grid.css">
 
-	<link rel="stylesheet" href="../assets/CodeCSS/index.css">
-	<link rel="stylesheet" href="../assets/CodeCSS/product.css">
-	<link rel="stylesheet" type="text/css" href="../assets/CodeCSS/responsive.css">
+	<link rel="stylesheet" href="./assets/CodeCSS/index.css">
+	<link rel="stylesheet" href="./assets/CodeCSS/product.css">
+	<link rel="stylesheet" type="text/css" href="./assets/CodeCSS/responsive.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
@@ -28,7 +28,7 @@
         <div class="menu-background js-menubg">
             <div class="menu js-menu" id="menu">
                 <div class="menu-header">
-                    <a href="index.php"><img class="menu-logo" src="../assets/Picture/logo.png" width="100" height="100"></a>
+                    <a href="index.php"><img class="menu-logo" src="./assets/Picture/logo.png" width="100" height="100"></a>
                     <i class="close-btn js-closebtn fas fa-bars"></i>
                 </div>
                 <div class="menu-links">
@@ -49,7 +49,7 @@
         </div>
         <div style="background-color: var(--my-color)"> 
             <div class="grid wide">
-            <?php include("nvabar1.php") ?>
+            <?php include("./CodePHP/nvabar1.php") ?>
             </div>
         </div>
 
@@ -59,7 +59,7 @@
                 <div class="row product">
                     <div class="col l-5 m-5 c-12">
                         <div class="product__img-box">
-                            <img class="product__img" src="../assets/Picture/products/product_1.jpg" alt="" srcset="">
+                            <img class="product__img" src="./assets/Picture/products/product_1.jpg" alt="" srcset="">
                         </div>
                     </div>
                     <div class="col l-7 m-7 c-12">
@@ -160,12 +160,12 @@
                             </div>
                             <div class="comment-list">
                                 <div class="comment-item">
-                                    <img class="comment-item__img" src="../assets/Picture/avatar/boy_1.png" alt="">
+                                    <img class="comment-item__img" src="./assets/Picture/avatar/boy_1.png" alt="">
                                     <div class="comment-item__body">
                                         <h3 class="comment-body__name" >Dao Minh Thong</h3>
                                         <p class="comment-body__content">Sản phẩm rất tuyệt vời luôn nha shop</p>
                                         <div class="comment-list-img">
-                                            <img src="../assets/Picture/products/product_1.jpg" alt="">
+                                            <img src="./assets/Picture/products/product_1.jpg" alt="">
                                         </div>
                                         <div class="comment-body__controls">
                                             <span class="btn-rely-comment" >Trả lời</span>
@@ -174,7 +174,7 @@
                                     </div>
                                 </div>
                                 <div class="comment-item">
-                                    <img class="comment-item__img" src="../assets/Picture/avatar/boy_1.png" alt="">
+                                    <img class="comment-item__img" src="./assets/Picture/avatar/boy_1.png" alt="">
                                     <div class="comment-item__body">
                                         <h3 class="comment-body__name" >Dao Minh Thong</h3>
                                         <p class="comment-body__content">Sản phẩm rất tuyệt vời luôn nha shop</p>
@@ -185,7 +185,7 @@
                                     </div>
                                 </div>
                                 <div class="comment-item">
-                                    <img class="comment-item__img" src="../assets/Picture/avatar/boy_1.png" alt="">
+                                    <img class="comment-item__img" src="./assets/Picture/avatar/boy_1.png" alt="">
                                     <div class="comment-item__body">
                                         <h3 class="comment-body__name" >Dao Minh Thong</h3>
                                         <p class="comment-body__content">Sản phẩm rất tuyệt vời luôn nha shop</p>
@@ -212,7 +212,7 @@
                  <!-- Top sale -->
                 <div class="top-sale owl-carousel owl-theme">
                     <div class="top-sale-item">
-                        <img class="top-sale-item__img" src="../assets/Picture/products/balo1.jpg" alt="">
+                        <img class="top-sale-item__img" src="./assets/Picture/products/balo1.jpg" alt="">
                         <h1 class="top-sale-item__name" >Ba lô dễ thương dây kéo</h1>
                         <i class="a fas fa-star"></i>
                         <i class="a fas fa-star"></i>
@@ -223,7 +223,7 @@
                         <button class="top-sale-item__btn" >Thêm vào giỏ</button>
                     </div>
                     <div class="top-sale-item">
-                        <img class="top-sale-item__img" src="../assets/Picture/products/balo2.jpg" alt="">
+                        <img class="top-sale-item__img" src="./assets/Picture/products/balo2.jpg" alt="">
                         <h1 class="top-sale-item__name" >Ba lô dễ thương dây kéo</h1>
                         <i class="a fas fa-star"></i>
                         <i class="a fas fa-star"></i>
@@ -234,7 +234,7 @@
                         <button class="top-sale-item__btn" >Thêm vào giỏ</button>
                     </div>
                     <div class="top-sale-item">
-                        <img class="top-sale-item__img" src="../assets/Picture/products/balo3.jpg" alt="">
+                        <img class="top-sale-item__img" src="./assets/Picture/products/balo3.jpg" alt="">
                         <h1 class="top-sale-item__name" >Ba lô dễ thương dây kéo</h1>
                         <i class="a fas fa-star"></i>
                         <i class="a fas fa-star"></i>
@@ -245,7 +245,7 @@
                         <button class="top-sale-item__btn" >Thêm vào giỏ</button>
                     </div>
                     <div class="top-sale-item">
-                        <img class="top-sale-item__img" src="../assets/Picture/products/binhnuoc1.jpg" alt="">
+                        <img class="top-sale-item__img" src="./assets/Picture/products/binhnuoc1.jpg" alt="">
                         <h1 class="top-sale-item__name" >Ba lô dễ thương dây kéo</h1>
                         <i class="a fas fa-star"></i>
                         <i class="a fas fa-star"></i>
@@ -256,7 +256,7 @@
                         <button class="top-sale-item__btn" >Thêm vào giỏ</button>
                     </div>
                     <div class="top-sale-item">
-                        <img class="top-sale-item__img" src="../assets/Picture/products/binhnuoc2.jpg" alt="">
+                        <img class="top-sale-item__img" src="./assets/Picture/products/binhnuoc2.jpg" alt="">
                         <h1 class="top-sale-item__name" >Ba lô dễ thương dây kéo</h1>
                         <i class="a fas fa-star"></i>
                         <i class="a fas fa-star"></i>
@@ -267,7 +267,7 @@
                         <button class="top-sale-item__btn" >Thêm vào giỏ</button>
                     </div>
                     <div class="top-sale-item">
-                        <img class="top-sale-item__img" src="../assets/Picture/products/binhnuoc3.jpg" alt="">
+                        <img class="top-sale-item__img" src="./assets/Picture/products/binhnuoc3.jpg" alt="">
                         <h1 class="top-sale-item__name" >Ba lô dễ thương dây kéo</h1>
                         <i class="a fas fa-star"></i>
                         <i class="a fas fa-star"></i>
@@ -376,10 +376,10 @@
                     <div class="row">
                         <div class="col c-12 footer-img-policy-wrap">
                             <a href="" class="footer-img-policy">
-                                <img src="../assets/Picture/policy/bo_cong_thuong.png" alt="">
+                                <img src="./assets/Picture/policy/bo_cong_thuong.png" alt="">
                             </a>
                             <a href="" class="footer-img-policy">
-                                <img src="../assets/Picture/policy/bo_cong_thuong.png" alt="">
+                                <img src="./assets/Picture/policy/bo_cong_thuong.png" alt="">
                             </a>
                         </div>
                     </div>
@@ -439,7 +439,7 @@
         });
 
     </script>		
-    <script src="../assets/CodeJS/product.js"></script>
+    <script src="./assets/CodeJS/product.js"></script>
 
 </body>
 </html>
